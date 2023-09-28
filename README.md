@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! I`m Salvador Conde 👋
+>I am a young Spanish man passionate about the world of web development and technology. 🌱 I’m currently learning at CodeSpace academy to become full stack development.
+>What do you want to talk about?
+--- 
+ - I am looking to collaborate with important international companies (
+---
 
-<!--
-**salvconal/salvconal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact.
+ - If you want know about me .. [Linkedin](www.linkedin.com/in/salvador-conde-alvarez-541784293)
+ - If you want something more .. [Twitter](https://twitter.com/salviconde98)
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
